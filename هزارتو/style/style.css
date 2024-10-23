@@ -1,0 +1,52 @@
+*{
+    direction: ltr;
+    margin: 0%;
+    box-sizing: border-box;
+}
+header{
+    border: 2px solid black;
+    padding: 7px;
+    text-align: center;
+}
+section>div{
+    border: 2px solid black;
+    float: left;
+}
+div#menu{
+    width: 20%;
+    height: 265px;
+    text-align: center;
+}
+#center{
+    width: 60%;
+    height:44.5px;
+    border: 2px solid black;
+    float: left;
+
+}
+#left{
+    width: 123px;
+    padding: 11px;
+    border: 2px solid black;
+    float: left;
+}
+#main{
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+    width:493px;
+    float:right;
+}
+#b{
+    text-align: center;
+    border: 2px solid black;
+    padding: 9px;
+    width: 211px;
+    float: right;
+}
+#a{
+    text-align: center;
+    border: 2px solid black;
+    
+   
+}
